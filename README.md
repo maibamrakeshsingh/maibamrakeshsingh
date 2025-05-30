@@ -180,13 +180,13 @@ Through these avenues, I aim to **uncover quantum geometric transitions** and ad
 A framework for implementing <span style="color: #8E2DE2; font-weight: bold;"> machine learning</span> algorithms through hybrid approaches, seamlessly integrating predictive modeling and AI.
 </div>
 
-### <span style="display: inline-block; background: linear-gradient(90deg, #fc4a1a 0%, #f7b733 100%); padding: 5px 15px; border-radius: 20px; color: white; font-weight: bold;">3. Explainable AI for Scientific Discovery</span>
+### <span style="display: inline-block; background: linear-gradient(90deg, #fc4a1a 0%, #f7b733 100%); padding: 5px 15px; border-radius: 20px; color: white; font-weight: bold;">2. Explainable AI for Scientific Discovery</span>
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=explainable-ai-science&theme=radical&bg_color=45,fc4a1a,f7b733&title_color=fff&text_color=fff&border_color=fc4a1a)](https://github.com/yourusername/explainable-ai-science)
 <div style="background: rgba(252, 74, 26, 0.1); padding: 15px; border-radius: 15px; border-left: 5px solid #fc4a1a;">
 Developing <span style="color: #fc4a1a; font-weight: bold;">interpretable ML models</span> for scientific applications where understanding is as important as prediction accuracy.
 </div>
 
-### <span style="display: inline-block; background: linear-gradient(90deg, #11998e 0%, #38ef7d 100%); padding: 5px 15px; border-radius: 20px; color: white; font-weight: bold;">2. Mathematical Physics Simulation Library</span>
+### <span style="display: inline-block; background: linear-gradient(90deg, #11998e 0%, #38ef7d 100%); padding: 5px 15px; border-radius: 20px; color: white; font-weight: bold;">3. Mathematical Physics Simulation Library</span>
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=physics-simulations&theme=radical&bg_color=45,11998e,38ef7d&title_color=fff&text_color=fff&border_color=11998e)](https://github.com/yourusername/physics-simulations)
 <div style="background: rgba(17, 153, 142, 0.1); padding: 15px; border-radius: 15px; border-left: 5px solid #11998e;">
 Numerical solutions to <span style="color: #11998e; font-weight: bold;">Stochastic PDEs</span> arising in theoretical physics using modern computational methods and parallel processing.
