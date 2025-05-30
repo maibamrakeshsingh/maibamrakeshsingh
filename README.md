@@ -189,7 +189,7 @@ Developing <span style="color: #fc4a1a; font-weight: bold;">interpretable ML mod
 ### <span style="display: inline-block; background: linear-gradient(90deg, #11998e 0%, #38ef7d 100%); padding: 5px 15px; border-radius: 20px; color: white; font-weight: bold;">2. Mathematical Physics Simulation Library</span>
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=physics-simulations&theme=radical&bg_color=45,11998e,38ef7d&title_color=fff&text_color=fff&border_color=11998e)](https://github.com/yourusername/physics-simulations)
 <div style="background: rgba(17, 153, 142, 0.1); padding: 15px; border-radius: 15px; border-left: 5px solid #11998e;">
-Numerical solutions to <span style="color: #11998e; font-weight: bold;">complex PDEs</span> arising in theoretical physics using modern computational methods and parallel processing.
+Numerical solutions to <span style="color: #11998e; font-weight: bold;">Stochastic PDEs</span> arising in theoretical physics using modern computational methods and parallel processing.
 </div>
 </div>
 
