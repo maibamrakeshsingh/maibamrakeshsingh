@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/header_image.png" alt="Banner" style="border-radius: 20px; width: 100%; max-width: 800px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/header_image.jng" alt="Banner" style="border-radius: 20px; width: 100%; max-width: 800px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
   
   <h1 style="color: #ff6b6b; text-shadow: 2px 2px 4px rgba(0,0,0,0.1);"> Maibam Rakesh Singh </h1>
 
