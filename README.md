@@ -4,7 +4,7 @@
   <h1 style="color: #ff6b6b; text-shadow: 2px 2px 4px rgba(0,0,0,0.1);"> Maibam Rakesh Singh </h1>
 
   
-  <h3 style="background: linear-gradient(90deg, #ff9a9e 0%, #fad0c4 100%); padding: 10px; border-radius: 20px; color: white; text-shadow: 1px 1px 2px rgba(0,0,0,0.2);">Mathematical Physicist | Data Scientist | Machine Learning Engineer</h3>
+  <h3 style="background: linear-gradient(90deg, #ff9a9e 0%, #fad0c4 100%); padding: 10px; border-radius: 20px; color: white; text-shadow: 1px 1px 2px rgba(0,0,0,0.2);">Mathematical Physicist | Statistical Data Scientist | Machine Learning Engineer</h3>
   
   <p>
     <a href="https://linkedin.com/in/maibamrakeshsingh">
