@@ -170,10 +170,6 @@ Fun Fact:
 <img src="https://skillicons.dev/icons?i=discord" height="50" />
 </a>
 
-<a href="https://youtube.com/@your-youtube">
-<img src="https://skillicons.dev/icons?i=youtube" height="50" />
-</a>
-
 <a href="https://github.com/maibamrakeshsingh">
 <img src="https://skillicons.dev/icons?i=github" height="50" />
 </a>
