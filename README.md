@@ -153,7 +153,7 @@ Currently Learning:
 
 <div align="center">
 
-> *"Mathematics reveals patterns, while data uncovers intelligence."*
+> *"Mathematics is the logic of certainty, while statistics is the logic of uncertainty."*
 
 </div>
 
