@@ -162,10 +162,6 @@ Fun Fact:
 <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
 
-<a href="https://twitter.com/your-twitter">
-<img src="https://skillicons.dev/icons?i=twitter" height="50" />
-</a>
-
 <a href="https://discord.com/users/your-discord">
 <img src="https://skillicons.dev/icons?i=discord" height="50" />
 </a>
