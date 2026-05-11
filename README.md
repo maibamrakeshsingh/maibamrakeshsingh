@@ -4,7 +4,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Maibam%20Rakesh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&color=0:000000,100:0f4c75" />
 
-# ⚡ Data Engineer • Mathematical Statistician • Mathematical Physicist ⚡
+# Data Engineer • Mathematical Statistician • Mathematical Physicist
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Data+Engineering;Machine+Learning;Quantitative+Finance;Mathematical+Physics;Statistical+Modeling;Big+Data+Analytics;Cloud+Computing;AI+Engineering" />
 
@@ -14,7 +14,7 @@
 
 <!-- ================= GITHUB STATS ================= -->
 
-# 📊 GitHub Analytics
+# GitHub Analytics
 
 <div align="center">
 
@@ -28,7 +28,7 @@
 
 <!-- ================= ADVANCED STATS ================= -->
 
-# ⚡ Advanced GitHub Stats
+# Advanced GitHub Stats
 
 <div align="center">
 
@@ -48,7 +48,7 @@
 
 <!-- ================= STREAK ================= -->
 
-# 🔥 GitHub Streak
+# GitHub Streak
 
 <div align="center">
 
@@ -60,7 +60,7 @@
 
 <!-- ================= TROPHIES ================= -->
 
-# 🏆 GitHub Trophies
+# GitHub Trophies
 
 <div align="center">
 
@@ -74,7 +74,7 @@
 
 <img align="right" height="220" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
-# 🚀 About Me
+# About Me
 
 ```yaml
 🎯 Role:
@@ -82,29 +82,29 @@
   ├─ Mathematical Statistician
   └─ Mathematical Physicist
 
-💡 Focus Areas:
+Focus Areas:
   ├─ Machine Learning & AI
   ├─ Quantitative Finance
   ├─ Statistical Modeling
   ├─ Computational Physics
   └─ Big Data Analytics
 
-📚 Currently Learning:
+Currently Learning:
   ├─ Apache Spark & Kafka
   ├─ Cloud Computing (AWS/Azure)
   ├─ Distributed Systems
   ├─ Deep Learning Architectures
   └─ MLOps & DataOps
 
-🏆 Achievements:
+Achievements:
   ├─ Open Source Contributor
   ├─ Research Publications
   └─ Technical Speaker
 
-🌍 Location:
+Location:
   └─ Chennai, India
 
-⚡ Fun Fact:
+Fun Fact:
   └─ "Mathematics reveals hidden structures behind data and reality."
 ```
 
@@ -112,7 +112,7 @@
 
 <!-- ================= TECH STACK ================= -->
 
-# ⚙️ Tech Stack
+# Tech Stack
 
 <div align="center">
 
@@ -124,7 +124,7 @@
 
 <!-- ================= TOOLS ================= -->
 
-# 🛠️ Tools & Platforms
+# Tools & Platforms
 
 <div align="center">
 
@@ -136,7 +136,7 @@
 
 <!-- ================= CONTRIBUTION GRAPH ================= -->
 
-# 📈 Contribution Graph
+# Contribution Graph
 
 <div align="center">
 
@@ -148,7 +148,7 @@
 
 <!-- ================= PACMAN ================= -->
 
-# 👾 Pacman Contribution Graph
+# Pacman Contribution Graph
 
 <div align="center">
 
@@ -164,7 +164,7 @@
 
 <!-- ================= QUOTES ================= -->
 
-# 💡 Inspirational Quote
+# Inspirational Quote
 
 <div align="center">
 
@@ -176,7 +176,7 @@
 
 <!-- ================= SOCIALS ================= -->
 
-# 🌐 Connect With Me
+# Connect With Me
 
 <div align="center">
 
@@ -206,7 +206,7 @@
 
 <!-- ================= VISITORS ================= -->
 
-# 👀 Profile Visitors
+# Profile Visitors
 
 <div align="center">
 
@@ -222,7 +222,7 @@
 
 <!-- ================= SNAKE ================= -->
 
-# 🐍 Contribution Snake
+# Contribution Snake
 
 <div align="center">
 
@@ -230,23 +230,9 @@
 
 </div>
 
----
-
-<!-- ================= MUSIC ================= -->
-
-# 🎵 Spotify Playing
-
-<div align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31h2example&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=00f7ff&bar_color_cover=false" />
-
-</div>
-
----
-
 <!-- ================= METRICS ================= -->
 
-# 📌 Developer Metrics
+# Developer Metrics
 
 <div align="center">
 
@@ -266,7 +252,7 @@
 
 <div align="center">
 
-# ✨ Philosophy
+# Philosophy
 
 > *"Mathematics reveals the structure of reality, while data uncovers hidden intelligence."*
 
