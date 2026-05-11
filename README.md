@@ -26,6 +26,26 @@
 
 ---
 
+<!-- ================= ADVANCED STATS ================= -->
+
+# ⚡ Advanced GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.shion.dev/api?username=maibamrakeshsingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+<br/>
+
+![](https://streak-stats.demolab.com/?user=maibamrakeshsingh&theme=dark&hide_border=false)
+
+<br/>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=maibamrakeshsingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
+
+---
+
 <!-- ================= STREAK ================= -->
 
 # 🔥 GitHub Streak
@@ -80,6 +100,12 @@
   ├─ Open Source Contributor
   ├─ Research Publications
   └─ Technical Speaker
+
+🌍 Location:
+  └─ Chennai, India
+
+⚡ Fun Fact:
+  └─ "Mathematics reveals hidden structures behind data and reality."
 ```
 
 ---
@@ -90,7 +116,19 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,html,css,nodejs,mysql,postgresql,mongodb,docker,kubernetes,kafka,git,github,gitlab,linux,vscode,anaconda" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,html,css,nodejs,mysql,postgresql,mongodb,docker,kubernetes,kafka,git,github,gitlab,linux,vscode,anaconda,aws,azure,tensorflow,pytorch" />
+
+</div>
+
+---
+
+<!-- ================= TOOLS ================= -->
+
+# 🛠️ Tools & Platforms
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=github,gitlab,linux,bash,vim,ubuntu,postman,firebase,vercel,netlify" />
 
 </div>
 
@@ -124,25 +162,37 @@
 
 ---
 
+<!-- ================= QUOTES ================= -->
+
+# 💡 Inspirational Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
+</div>
+
+---
+
 <!-- ================= SOCIALS ================= -->
 
 # 🌐 Connect With Me
 
 <div align="center">
 
-<a href="https://linkedin.com">
+<a href="https://linkedin.com/in/your-linkedin">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
 
-<a href="https://twitter.com">
+<a href="https://twitter.com/your-twitter">
 <img src="https://skillicons.dev/icons?i=twitter" height="50" />
 </a>
 
-<a href="https://discord.com">
+<a href="https://discord.com/users/your-discord">
 <img src="https://skillicons.dev/icons?i=discord" height="50" />
 </a>
 
-<a href="https://youtube.com">
+<a href="https://youtube.com/@your-youtube">
 <img src="https://skillicons.dev/icons?i=youtube" height="50" />
 </a>
 
@@ -156,9 +206,15 @@
 
 <!-- ================= VISITORS ================= -->
 
+# 👀 Profile Visitors
+
 <div align="center">
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=maibamrakeshsingh.maibamrakeshsingh&left_color=black&right_color=00F7FF" />
+
+<br/><br/>
+
+![](https://komarev.com/ghpvc/?username=maibamrakeshsingh&icon=0&color=0)
 
 </div>
 
@@ -176,9 +232,41 @@
 
 ---
 
+<!-- ================= MUSIC ================= -->
+
+# 🎵 Spotify Playing
+
 <div align="center">
 
-## ✨ Philosophy
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31h2example&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=00f7ff&bar_color_cover=false" />
+
+</div>
+
+---
+
+<!-- ================= METRICS ================= -->
+
+# 📌 Developer Metrics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maibamrakeshsingh&theme=github_dark" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maibamrakeshsingh&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maibamrakeshsingh&theme=github_dark" />
+
+</div>
+
+---
+
+<!-- ================= PHILOSOPHY ================= -->
+
+<div align="center">
+
+# ✨ Philosophy
 
 > *"Mathematics reveals the structure of reality, while data uncovers hidden intelligence."*
 
@@ -186,8 +274,12 @@
 
 ---
 
+<!-- ================= FOOTER ================= -->
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,100:0f4c75" />
 
 </div>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
