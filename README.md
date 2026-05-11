@@ -6,7 +6,11 @@
 
 </div>
 
-# Data Engineer • Mathematical Statistician • Mathematical Physicist
+<div align="center">
+
+# ⚡ Data Engineer • Mathematical Statistician • Mathematical Physicist ⚡
+
+</div>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Data+Engineering;Machine+Learning;Quantitative+Finance;Mathematical+Physics;Statistical+Modeling;Big+Data+Analytics;Cloud+Computing;AI+Engineering" />
 
