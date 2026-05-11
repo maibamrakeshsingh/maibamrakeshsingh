@@ -140,17 +140,19 @@ Fun Fact:
 
 ---
 
-<!-- ================= PACMAN ================= -->
+<!-- ================= PACMAN (DISABLED - Requires GitHub Action) ================= -->
 
-# 👾 Pacman Contribution Graph
+<!-- 
+# Pacman Contribution Graph
 
 <div align="center">
 
 <img width="100%" src="https://raw.githubusercontent.com/maibamrakeshsingh/maibamrakeshsingh/output/pacman-contribution-graph-dark.svg" />
 
 </div>
+-->
 
----
+<!-- Using working snake animation instead -->
 
 <!-- ================= SOCIALS ================= -->
 
