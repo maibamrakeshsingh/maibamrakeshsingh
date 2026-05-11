@@ -72,12 +72,16 @@
 
 <!-- ================= ABOUT ================= -->
 
-<img align="right" height="220" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+<div align="center">
 
-# About Me
+<table>
+<tr>
+<td width="65%" valign="top">
+
+# 🚀 About Me
 
 ```yaml
-🎯 Role:
+Role:
   ├─ Data Engineer
   ├─ Mathematical Statistician
   └─ Mathematical Physicist
@@ -107,6 +111,18 @@ Location:
 Fun Fact:
   └─ "Mathematics reveals hidden structures behind data and reality."
 ```
+
+</td>
+
+<td width="35%" align="center">
+
+<img height="220" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
