@@ -12,23 +12,9 @@
 
 ---
 
-<!-- ================= GITHUB STATS ================= -->
-
-# GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=maibamrakeshsingh&show_icons=true&theme=github_dark&bg_color=000000&title_color=00F7FF&text_color=FFFFFF&icon_color=00F7FF&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maibamrakeshsingh&layout=compact&theme=github_dark&bg_color=000000&title_color=00F7FF&text_color=FFFFFF&hide_border=true&border_radius=15&langs_count=10" />
-
-</div>
-
----
-
 <!-- ================= ADVANCED STATS ================= -->
 
-# Advanced GitHub Stats
+# GitHub Statistics
 
 <div align="center">
 
