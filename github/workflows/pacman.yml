@@ -1,0 +1,25 @@
+name: Generate Pacman Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs daily at midnight
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - uses: abel0b/snk-pacman@v1
+        with:
+          github_user_name: maibamrakeshsingh
+          outputs: |
+            output/pacman-contribution-graph-dark.svg?palette=github-dark&color_snake=#00F7FF
+      
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
