@@ -253,7 +253,7 @@ Fun Fact:
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,100:0f4c75" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1E3A8A,50:2563EB,100:38BDF8" />
 
 </div>
 
