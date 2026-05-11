@@ -46,18 +46,6 @@
 
 ---
 
-<!-- ================= TROPHIES ================= -->
-
-# GitHub Trophies
-
-<div align="center">
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=maibamrakeshsingh&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4" />
-
-</div>
-
----
-
 <!-- ================= ABOUT ================= -->
 
 <div align="center">
@@ -173,18 +161,6 @@ Fun Fact:
 </picture>
 
 </div>
-
----
-<!-- ================= QUOTES ================= -->
-
-# Inspirational Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-
-</div>
-
 ---
 
 <!-- ================= SOCIALS ================= -->
