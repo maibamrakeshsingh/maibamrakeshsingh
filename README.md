@@ -146,25 +146,10 @@ Fun Fact:
 
 <div align="center">
 
-<picture>
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/maibamrakeshsingh/maibamrakeshsingh/pacman-output/pacman-contribution-graph-dark.svg"
-  />
-
-  <source 
-    media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/maibamrakeshsingh/maibamrakeshsingh/pacman-output/pacman-contribution-graph.svg"
-  />
-
-  <img 
-    width="100%"
-    alt="Pacman Contribution Graph"
-    src="https://raw.githubusercontent.com/maibamrakeshsingh/maibamrakeshsingh/pacman-output/pacman-contribution-graph-dark.svg"
-  />
-</picture>
+<img width="100%" src="https://raw.githubusercontent.com/maibamrakeshsingh/maibamrakeshsingh/output/pacman-contribution-graph-dark.svg" />
 
 </div>
+
 ---
 
 <!-- ================= SOCIALS ================= -->
