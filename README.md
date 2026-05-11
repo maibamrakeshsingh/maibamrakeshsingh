@@ -110,7 +110,7 @@ Fun Fact:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,html,css,nodejs,mysql,postgresql,mongodb,docker,kubernetes,kafka,git,github,gitlab,linux,vscode,anaconda,aws,azure,tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=python,java,mysql,postgresql,mongodb,docker,kafka,git,github,gitlab,linux,vscode,anaconda,aws,azure,tensorflow,pytorch" />
 
 </div>
 
@@ -122,7 +122,7 @@ Fun Fact:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=github,gitlab,linux,bash,vim,ubuntu,postman,firebase,vercel,netlify" />
+<img src="https://skillicons.dev/icons?i=github,gitlab,linux" />
 
 </div>
 
