@@ -64,7 +64,7 @@
 <tr>
 <td width="65%" valign="top">
 
-# 🚀 About Me
+# About Me
 
 ```yaml
 Role:
@@ -74,7 +74,6 @@ Role:
 
 Focus Areas:
   ├─ Machine Learning & AI
-  ├─ Quantitative Finance
   ├─ Statistical Modeling
   ├─ Computational Physics
   └─ Big Data Analytics
@@ -89,7 +88,6 @@ Currently Learning:
 Achievements:
   ├─ Open Source Contributor
   ├─ Research Publications
-  └─ Technical Speaker
 
 Location:
   └─ Chennai, India
