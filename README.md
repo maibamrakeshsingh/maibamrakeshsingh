@@ -8,7 +8,7 @@
 
 <div align="center">
 
-# ⚡ Data Engineer • Mathematical Statistician • Mathematical Physicist ⚡
+#  Data Engineer • Mathematical Statistician • Mathematical Physicist 
 
 </div>
 
