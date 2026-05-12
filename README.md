@@ -58,7 +58,7 @@ Currently Learning:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,mongodb,git,github,linux,docker,aws,tensorflow,pytorch,vscode&perline=7"/>
+<img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,mongodb,git,github,linux,docker,aws,tensorflow,pytorch,vscode&perline,R Studio=7"/>
 
 </div>
 
