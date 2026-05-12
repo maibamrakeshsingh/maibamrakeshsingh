@@ -68,12 +68,6 @@ Currently Learning:
 
 <div align="center">
 
-<img width="38%" src="https://github-readme-stats.vercel.app/api?username=maibamrakeshsingh&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maibamrakeshsingh&layout=compact&theme=radical&hide_border=true"/>
-
-<br/><br/>
-
 <img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maibamrakeshsingh&theme=dracula"/>
 
 <img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maibamrakeshsingh&theme=monokai"/>
