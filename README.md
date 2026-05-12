@@ -1,5 +1,6 @@
 <div align="center">
 
+<!-- HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&text=Maibam%20Rakesh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&color=0:1E3A8A,50:2563EB,100:38BDF8"/>
 
 # Data Engineer • Mathematical Statistician • Mathematical Physicist
@@ -64,33 +65,33 @@ Currently Learning:
 
 ---
 
-# GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<!-- Colorful Languages Graph -->
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maibamrakeshsingh&layout=compact&theme=radical&hide_border=true"/>
+<!-- Top Languages (Main colorful graph) -->
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maibamrakeshsingh&layout=compact&theme=radical&hide_border=true"/>
 
 <!-- Repo Languages -->
-<img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maibamrakeshsingh&theme=dracula"/>
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maibamrakeshsingh&theme=tokyonight"/>
 
 <br/><br/>
 
 <!-- Commit Languages -->
-<img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maibamrakeshsingh&theme=monokai"/>
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maibamrakeshsingh&theme=dracula"/>
 
 <!-- GitHub Stats -->
-<img width="42%" src="https://github-readme-stats.vercel.app/api?username=maibamrakeshsingh&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=maibamrakeshsingh&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <br/><br/>
 
-<!-- Streak -->
-<img width="78%" src="https://streak-stats.demolab.com?user=maibamrakeshsingh&theme=algolia&hide_border=true"/>
+<!-- Streak Stats -->
+<img width="82%" src="https://streak-stats.demolab.com?user=maibamrakeshsingh&theme=highcontrast&hide_border=true"/>
 
 <br/><br/>
 
 <!-- Activity Graph -->
-<img width="78%" src="https://github-readme-activity-graph.vercel.app/graph?username=maibamrakeshsingh&theme=react-dark&hide_border=true&area=true"/>
+<img width="82%" src="https://github-readme-activity-graph.vercel.app/graph?username=maibamrakeshsingh&theme=react-dark&hide_border=true&area=true"/>
 
 </div>
 
