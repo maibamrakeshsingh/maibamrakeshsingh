@@ -28,10 +28,10 @@ Roles:
   - Mathematical Physicist
 
 Research Areas:
+  - Complex System
+  - Quantum Inference
   - Statistical Physics
   - Stochastic Modeling
-  - Machine Learning
-  - Quantum Inference
 
 Currently Learning:
   - Apache Spark
