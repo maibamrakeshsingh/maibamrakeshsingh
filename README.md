@@ -93,13 +93,19 @@ Currently Learning:
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maibamrakeshsingh&theme=github_dark"/>
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maibamrakeshsingh&theme=tokyonight"/>
 
 <br/><br/>
 
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maibamrakeshsingh&theme=github_dark"/>
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maibamrakeshsingh&theme=radical"/>
 
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maibamrakeshsingh&theme=github_dark"/>
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maibamrakeshsingh&theme=dracula"/>
+
+<br/><br/>
+
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maibamrakeshsingh&theme=solarized_dark"/>
+
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maibamrakeshsingh&theme=monokai&utcOffset=5.5"/>
 
 </div>
 
