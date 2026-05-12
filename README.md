@@ -30,7 +30,7 @@ Roles:
 Research Areas:
   - Statistical Physics
   - Stochastic Modeling
-  - Complex System
+  - Machine Learning
   - Quantum Inference
 
 Currently Learning:
@@ -51,6 +51,9 @@ Currently Learning:
 </table>
 
 </div>
+
+---
+
 # Tech Stack
 
 <div align="center">
@@ -107,6 +110,8 @@ Currently Learning:
 
 ---
 
+# Visitors
+
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=maibamrakeshsingh&label=Profile+Views&color=2563EB&style=flat"/>
@@ -114,6 +119,8 @@ Currently Learning:
 </div>
 
 ---
+
+# Philosophy
 
 <div align="center">
 
