@@ -4,7 +4,7 @@
 
 # Data Engineer • Mathematical Statistician • Mathematical Physicist
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Machine+Learning;Statistical+Physics;Stochastic+Modeling;Quantum+Inference;Big+Data+Analytics;AI+Engineering"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Machine+Learning;Statistical+Physics;Stochastic+Modeling;Quantum+Inference;Big+Data+Analytics;AI+Engineering"/>
 
 </div>
 
@@ -45,7 +45,7 @@ Currently Learning:
 
 <td width="42%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 
 </td>
 
@@ -70,35 +70,23 @@ Currently Learning:
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=maibamrakeshsingh&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api?username=maibamrakeshsingh&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maibamrakeshsingh&layout=compact&theme=radical&hide_border=true"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maibamrakeshsingh&layout=compact&theme=radical&hide_border=true"/>
 
 <br/><br/>
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maibamrakeshsingh&theme=dracula"/>
+<img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maibamrakeshsingh&theme=dracula"/>
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maibamrakeshsingh&theme=monokai"/>
+<img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maibamrakeshsingh&theme=monokai"/>
 
-</div>
+<br/><br/>
 
----
+<img width="86%" src="https://streak-stats.demolab.com?user=maibamrakeshsingh&theme=highcontrast&hide_border=true"/>
 
-# Contribution Activity
+<br/><br/>
 
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=maibamrakeshsingh&theme=react-dark&hide_border=true&area=true"/>
-
-</div>
-
----
-
-# GitHub Streak
-
-<div align="center">
-
-<img width="95%" src="https://streak-stats.demolab.com?user=maibamrakeshsingh&theme=highcontrast&hide_border=true"/>
+<img width="86%" src="https://github-readme-activity-graph.vercel.app/graph?username=maibamrakeshsingh&theme=react-dark&hide_border=true&area=true"/>
 
 </div>
 
@@ -109,19 +97,19 @@ Currently Learning:
 <div align="center">
 
 <a href="https://github.com/maibamrakeshsingh">
-<img src="https://skillicons.dev/icons?i=github" height="52"/>
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
 <a href="https://linkedin.com/in/your-linkedin">
-<img src="https://skillicons.dev/icons?i=linkedin" height="52"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
 <a href="mailto:maibamrakeshsingh31@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="52"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 
 <a href="https://discord.com/users/your-discord">
-<img src="https://skillicons.dev/icons?i=discord" height="52"/>
+<img src="https://skillicons.dev/icons?i=discord" height="50"/>
 </a>
 
 </div>
@@ -142,7 +130,7 @@ Currently Learning:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img width="95%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
