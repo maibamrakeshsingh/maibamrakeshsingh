@@ -28,7 +28,7 @@ Roles:
 Domains:
   - Complex System
   - Quantum Inference
-  - Stchastics Modelling
+  - Stochastics Modelling
   - Statistical Physics
   - Big Data Analytics
 
