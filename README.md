@@ -20,20 +20,17 @@
 <td width="60%" valign="top">
 
 ```yaml
-Name: Maibam Rakesh
-
 Roles:
   - Data Engineer
   - Mathematical Statistician
   - Mathematical Physicist
 
 Domains:
-  - Machine Learning
-  - Statistical Modeling
-  - Quantitative Finance
-  - Computational Physics
+  - Complex System
+  - Quantum Inference
+  - Stchastics Modelling
+  - Statistical Physics
   - Big Data Analytics
-  - AI Engineering
 
 Currently Learning:
   - Apache Spark
