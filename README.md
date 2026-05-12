@@ -12,6 +12,13 @@
 
 # About Me
 
+<div align="center">
+
+<table>
+<tr>
+
+<td width="55%" valign="top">
+
 ```yaml
 Name: Maibam Rakesh
 
@@ -23,7 +30,7 @@ Roles:
 Research Areas:
   - Statistical Physics
   - Stochastic Modeling
-  - Machine Learning
+  - Complex System
   - Quantum Inference
 
 Currently Learning:
@@ -32,8 +39,18 @@ Currently Learning:
   - Distributed Systems
 ```
 
----
+</td>
 
+<td width="45%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220"/>
+
+</td>
+
+</tr>
+</table>
+
+</div>
 # Tech Stack
 
 <div align="center">
