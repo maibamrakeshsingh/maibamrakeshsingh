@@ -12,6 +12,13 @@
 
 # About Me
 
+<div align="center">
+
+<table>
+<tr>
+
+<td width="60%" valign="top">
+
 ```yaml
 Name: Maibam Rakesh
 
@@ -34,6 +41,19 @@ Currently Learning:
   - Data Pipelines
   - Deep Learning
 ```
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
