@@ -28,7 +28,7 @@ Roles:
   - Mathematical Physicist
 
 Research Areas:
-  - Complex System
+  - Complex Systems
   - Quantum Inference
   - Statistical Physics
   - Stochastic Modeling
@@ -58,7 +58,7 @@ Currently Learning:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,mongodb,git,github,linux,docker,aws,tensorflow,pytorch,vscode&perline,jupyter=7"/>
+<img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,mongodb,git,github,linux,docker,aws,tensorflow,pytorch,vscode,jupyter&perline=7"/>
 
 </div>
 
@@ -68,16 +68,28 @@ Currently Learning:
 
 <div align="center">
 
-<img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maibamrakeshsingh&theme=dracula"/>
+<!-- Colorful Languages Graph -->
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maibamrakeshsingh&layout=compact&theme=radical&hide_border=true"/>
 
-<img width="38%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maibamrakeshsingh&theme=monokai"/>
+<!-- Repo Languages -->
+<img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maibamrakeshsingh&theme=dracula"/>
 
 <br/><br/>
 
+<!-- Commit Languages -->
+<img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maibamrakeshsingh&theme=monokai"/>
+
+<!-- GitHub Stats -->
+<img width="42%" src="https://github-readme-stats.vercel.app/api?username=maibamrakeshsingh&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
+
+<!-- Streak -->
 <img width="78%" src="https://streak-stats.demolab.com?user=maibamrakeshsingh&theme=algolia&hide_border=true"/>
 
 <br/><br/>
 
+<!-- Activity Graph -->
 <img width="78%" src="https://github-readme-activity-graph.vercel.app/graph?username=maibamrakeshsingh&theme=react-dark&hide_border=true&area=true"/>
 
 </div>
