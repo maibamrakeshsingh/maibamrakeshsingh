@@ -93,19 +93,34 @@ Currently Learning:
 
 <div align="center">
 
+<!-- Profile Details -->
 <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maibamrakeshsingh&theme=tokyonight"/>
 
 <br/><br/>
 
+<!-- Repo Languages -->
 <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maibamrakeshsingh&theme=radical"/>
 
+<!-- Commit Languages -->
 <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maibamrakeshsingh&theme=dracula"/>
 
 <br/><br/>
 
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maibamrakeshsingh&theme=solarized_dark"/>
+<!-- GitHub Stats -->
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maibamrakeshsingh&theme=monokai"/>
 
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maibamrakeshsingh&theme=monokai&utcOffset=5.5"/>
+<!-- Productive Time -->
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maibamrakeshsingh&theme=solarized_dark&utcOffset=5.5"/>
+
+<br/><br/>
+
+<!-- Streak Graph -->
+<img width="95%" src="https://streak-stats.demolab.com?user=maibamrakeshsingh&theme=highcontrast&hide_border=true"/>
+
+<br/><br/>
+
+<!-- Activity Graph -->
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=maibamrakeshsingh&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
