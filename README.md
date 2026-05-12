@@ -1,12 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&text=Maibam%20Rakesh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&color=0:1E3A8A,50:2563EB,100:38BDF8"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Maibam%20Rakesh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&color=0:0F2027,50:203A43,100:2C5364"/>
 
 # Data Engineer • Mathematical Statistician • Mathematical Physicist
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Data+Engineering;Machine+Learning;Quantitative+Finance;Mathematical+Physics;Big+Data+Analytics;AI+Engineering"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Machine+Learning;Statistical+Physics;Stochastic+Modeling;Quantum+Inference;Big+Data+Analytics;AI+Engineering"/>
 
 </div>
+
+---
 
 # About Me
 
@@ -15,7 +17,7 @@
 <table>
 <tr>
 
-<td width="60%" valign="top">
+<td width="58%" valign="top">
 
 ```yaml
 Name: Maibam Rakesh
@@ -25,13 +27,12 @@ Roles:
   - Mathematical Statistician
   - Mathematical Physicist
 
-Domains:
-  - Machine Learning
-  - Stochastics Modeling
-  - Quantum Inference
+Research Interests:
   - Statistical Physics
-  - Big Data Analytics
-  - AI Engineering
+  - Stochastic Processes
+  - Machine Learning
+  - Quantum Inference
+  - Complex Systems
 
 Currently Learning:
   - Apache Spark
@@ -42,9 +43,9 @@ Currently Learning:
 
 </td>
 
-<td width="40%" align="center">
+<td width="42%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
 
 </td>
 
@@ -53,74 +54,51 @@ Currently Learning:
 
 </div>
 
+---
+
 # Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,r,mysql,mongodb,postgres,git,github,linux,bash,docker,kubernetes,aws,gcp,tensorflow,pytorch,vscode&perline=8"/>
+<img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,mongodb,git,github,linux,bash,docker,kubernetes,aws,gcp,tensorflow,pytorch,vscode&perline=8"/>
 
 </div>
 
 ---
 
-# GitHub Statistics
+# GitHub Analytics
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.shion.dev/api?username=maibamrakeshsingh&theme=github_dark&hide_border=true&show_icons=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=maibamrakeshsingh&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="160em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=maibamrakeshsingh&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maibamrakeshsingh&layout=compact&theme=radical&hide_border=true"/>
 
 <br/><br/>
 
-<img width="90%" src="https://streak-stats.demolab.com?user=maibamrakeshsingh&theme=github-dark-blue&hide_border=true"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maibamrakeshsingh&theme=dracula"/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maibamrakeshsingh&theme=monokai"/>
 
 </div>
 
 ---
 
-# Contribution Graph
+# Contribution Activity
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=maibamrakeshsingh&bg_color=000000&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=maibamrakeshsingh&theme=react-dark&hide_border=true&area=true"/>
 
 </div>
 
 ---
 
-# GitHub Metrics
+# GitHub Streak
 
 <div align="center">
 
-<!-- Profile Details -->
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maibamrakeshsingh&theme=tokyonight"/>
-
-<br/><br/>
-
-<!-- Repo Languages -->
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maibamrakeshsingh&theme=radical"/>
-
-<!-- Commit Languages -->
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maibamrakeshsingh&theme=dracula"/>
-
-<br/><br/>
-
-<!-- GitHub Stats -->
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maibamrakeshsingh&theme=monokai"/>
-
-<!-- Productive Time -->
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maibamrakeshsingh&theme=solarized_dark&utcOffset=5.5"/>
-
-<br/><br/>
-
-<!-- Streak Graph -->
 <img width="95%" src="https://streak-stats.demolab.com?user=maibamrakeshsingh&theme=highcontrast&hide_border=true"/>
-
-<br/><br/>
-
-<!-- Activity Graph -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=maibamrakeshsingh&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -131,30 +109,30 @@ Currently Learning:
 <div align="center">
 
 <a href="https://github.com/maibamrakeshsingh">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
+<img src="https://skillicons.dev/icons?i=github" height="52"/>
 </a>
 
 <a href="https://linkedin.com/in/your-linkedin">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
-
-<a href="https://discord.com/users/your-discord">
-<img src="https://skillicons.dev/icons?i=discord" height="50"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="52"/>
 </a>
 
 <a href="mailto:maibamrakeshsingh31@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="52"/>
+</a>
+
+<a href="https://discord.com/users/your-discord">
+<img src="https://skillicons.dev/icons?i=discord" height="52"/>
 </a>
 
 </div>
 
 ---
 
-# Profile Visitors
+# Visitors
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=maibamrakeshsingh&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=maibamrakeshsingh&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
 
 </div>
 
@@ -174,7 +152,7 @@ Currently Learning:
 
 <div align="center">
 
-> *"Mathematics is the logic of certainty, while statistics is the logic of uncertainty."*
+### *"Mathematics is the logic of certainty, while statistics is the logic of uncertainty."*
 
 </div>
 
@@ -182,6 +160,6 @@ Currently Learning:
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:1E3A8A,50:2563EB,100:38BDF8"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
 
 </div>
