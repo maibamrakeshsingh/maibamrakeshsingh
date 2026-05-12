@@ -27,9 +27,9 @@ Roles:
 
 Domains:
   - Machine Learning
-  - Statistical Modeling
-  - Quantitative Finance
-  - Computational Physics
+  - Stochastics Modeling
+  - Quantum Inference
+  - Statistical Physics
   - Big Data Analytics
   - AI Engineering
 
