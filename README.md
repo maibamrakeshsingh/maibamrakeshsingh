@@ -101,7 +101,7 @@ Currently Learning:
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
-<a href="https://discord.com/users/your-discord">
+<a href="https://discord.com/channels/@me">
 <img src="https://skillicons.dev/icons?i=discord" height="50"/>
 </a>
 
