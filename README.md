@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&text=Maibam%20Rakesh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&color=0:1E3A8A,50:2563EB,100:38BDF8"/>
 
-# ML Engineer • Mathematical Statistician • Mathematical Physicist
+# ML Engineer • Statistical Mathematician • Mathematical Physicist
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Data+Engineering;Machine+Learning;Quantitative+Finance;Mathematical+Physics;Big+Data+Analytics;AI+Engineering"/>
 
@@ -22,7 +22,7 @@
 ```yaml
 Roles:
   - ML Engineer
-  - Mathematical Statistician
+  - Statistical Mathematician
   - Mathematical Physicist
 
 Domains:
