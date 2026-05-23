@@ -4,7 +4,7 @@
 
 # ML Engineer • Statistical Mathematician • Mathematical Physicist
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Data+Engineering;Machine+Learning;Quantitative+Finance;Mathematical+Physics;Big+Data+Analytics;AI+Engineering"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Data+Analysis;Machine+Learning;Quantitative+Finance;Mathematical+Physics;Big+Data+Analytics"/>
 
 </div>
 
