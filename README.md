@@ -26,17 +26,17 @@ Roles:
   - Mathematical Physicist
 
 Domains:
-  - Complex System
+  - Complex Systems
   - Quantum Inference
   - Stochastics Modelling
   - Statistical Physics
   - Big Data Analytics
 
 Currently Learning:
-  - Apache Spark
+  - Stochastics Geometry
   - Distributed Computing
-  - Data Pipelines
-  - Deep Learning
+  - Data Modellinf of Complex Systems
+  - Deep Learning and LLM
 ```
 
 </td>
