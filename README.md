@@ -74,8 +74,6 @@ Currently Learning:
 
 <br/><br/>
 
-<img width="90%" src="https://streak-stats.demolab.com?user=maibamrakeshsingh&theme=github-dark-blue&hide_border=true"/>
-
 </div>
 
 ---
