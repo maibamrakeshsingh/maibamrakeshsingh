@@ -97,7 +97,7 @@ Currently Learning:
 <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://www.linkedin.com/in/maibamrakeshsingh/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
