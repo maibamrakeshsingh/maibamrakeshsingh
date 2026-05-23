@@ -35,7 +35,7 @@ Domains:
 Currently Learning:
   - Stochastics Geometry
   - Distributed Computing
-  - Data Modellinf of Complex Systems
+  - Data Modelling of Complex Systems
   - Deep Learning and Large Language Model
 ```
 
@@ -82,7 +82,7 @@ Currently Learning:
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maibamrakeshsingh&theme=github_dark"/>
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maibamrakeshsingh&theme=github_blue"/>
 
 <br/><br/>
 </div>
