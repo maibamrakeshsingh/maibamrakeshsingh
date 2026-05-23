@@ -30,13 +30,13 @@ Domains:
   - Quantum Inference
   - Stochastics Modelling
   - Statistical Physics
-  - Big Data Analytics
+  - Big Data Processing
 
 Currently Learning:
   - Stochastics Geometry
   - Distributed Computing
   - Data Modellinf of Complex Systems
-  - Deep Learning and LLM
+  - Deep Learning and Large Language Model
 ```
 
 </td>
