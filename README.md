@@ -80,16 +80,6 @@ Currently Learning:
 
 ---
 
-# Contribution Graph
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=maibamrakeshsingh&bg_color=000000&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
-
----
-
 # GitHub Metrics
 
 <div align="center">
@@ -97,11 +87,6 @@ Currently Learning:
 <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maibamrakeshsingh&theme=github_dark"/>
 
 <br/><br/>
-
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maibamrakeshsingh&theme=github_dark"/>
-
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maibamrakeshsingh&theme=github_dark"/>
-
 </div>
 
 ---
@@ -127,28 +112,6 @@ Currently Learning:
 </a>
 
 </div>
-
----
-
-# Profile Visitors
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=maibamrakeshsingh&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
 
 # Philosophy
 
