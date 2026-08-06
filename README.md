@@ -27,7 +27,7 @@
 |:---:|:---:|:---:|
 | Probability & Statistics | Scientific ML | Financial Mathematics |
 | Random Matrix Theory | Numerical Optimization | Complex Systems |
-| Stochastic Processes | High-Performance Computing | Statistical Physics |
+| Stochasticity | High-Performance Computing | Statistical Physics |
 
 </div>
 
