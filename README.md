@@ -45,15 +45,11 @@
 
 <div align="center">
 
-### Languages & Tools
+### 📊 GitHub Stats
 
 <div align="center">
 
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maibamrakeshsingh&layout=compact&theme=merko&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=39FF14&langs_count=8"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=python,r,cpp,c,java,js,html,css&theme=dark&perline=8"/>
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maibamrakeshsingh&layout=compact&theme=merko&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=39FF14"/>
 
 </div>
 
