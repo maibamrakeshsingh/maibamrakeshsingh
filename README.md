@@ -19,6 +19,8 @@
 
 ---
 
+<div align="center">
+
 # Research Focus
 
 | Theory | Computation | Applications |
@@ -29,11 +31,13 @@
 | Stochastic Processes | Scientific Computing | Data Science |
 | Random Matrix Theory | Parallel Computing | Quantitative Finance |
 
+</div>
+
 ---
 
-# Tech Stack
-
 <div align="center">
+
+# Tech Stack
 
 <img src="https://skillicons.dev/icons?i=python,r,c,cpp,tensorflow,pytorch,sklearn,docker,git,linux,mysql,postgres,vscode&theme=dark&perline=7"/>
 
@@ -41,9 +45,9 @@
 
 ---
 
-# GitHub Statistics
-
 <div align="center">
+
+# 📊 GitHub Statistics
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=maibamrakeshsingh&show_icons=true&theme=merko&hide_border=true"/>
 
@@ -55,9 +59,9 @@
 
 ---
 
-# Currently Exploring
-
 <div align="center">
+
+# Currently Exploring
 
 ![Probability](https://img.shields.io/badge/Probability_Theory-39FF14?style=for-the-badge)
 
@@ -73,10 +77,10 @@
 
 ---
 
-# Philosophy
-
 <div align="center">
 
-> *"Mathematics is the language of certainty, while statistics is the language of uncertainty."*
+# Philosophy
+
+> **"Mathematics is the language of certainty, while statistics is the language of uncertainty."**
 
 </div>
