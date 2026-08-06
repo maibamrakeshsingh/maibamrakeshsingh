@@ -1,90 +1,82 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:006400,50:00C853,100:39FF14&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&color=0:006400,50:00C853,100:39FF14"/>
 
 # Maibam Rakesh Singh
 
-**`Mathematician · Statistician · Applied Mathematician`**
+### Mathematician • Statistician • Applied Mathematician
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=Probability+Theory;Statistical+Inference;Scientific+Machine+Learning;Random+Matrix+Theory;Stochasticity;Financial+Mathematics;Complex+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=850&lines=Probability+Theory;Mathematical+Statistics;Scientific+Machine+Learning;Random+Matrix+Theory;Stochastic+Processes;Financial+Mathematics;Complex+Systems)](https://git.io/typing-svg)
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/maibamrakeshsingh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maibamrakeshsingh/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:maibamrakeshsingh31@gmail.com)
-[![Views](https://komarev.com/ghpvc/?username=maibamrakeshsingh&label=Profile%20Views&color=39FF14&style=flat)](https://github.com/maibamrakeshsingh)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/maibamrakeshsingh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maibamrakeshsingh/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:maibamrakeshsingh31@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=maibamrakeshsingh&label=Profile%20Views&color=39FF14&style=flat-square)](https://github.com/maibamrakeshsingh)
 
 </div>
 
 ---
 
+# Research Focus
+
+| Theory | Computation | Applications |
+|:------:|:-----------:|:------------:|
+| Probability Theory | Scientific Machine Learning | Financial Mathematics |
+| Mathematical Statistics | Numerical Optimization | Complex Systems |
+| Statistical Inference | High-Performance Computing | Statistical Physics |
+| Stochastic Processes | Scientific Computing | Data Science |
+| Random Matrix Theory | Parallel Computing | Quantitative Finance |
+
+---
+
+# Tech Stack
+
 <div align="center">
 
-### Research Focus
-
-| **Theory** | **Computation** | **Application** |
-|:---:|:---:|:---:|
-| Probability & Statistics | Scientific ML | Financial Mathematics |
-| Random Matrix Theory | Numerical Optimization | Complex Systems |
-| Stochasticity | High-Performance Computing | Statistical Physics |
+<img src="https://skillicons.dev/icons?i=python,r,c,cpp,tensorflow,pytorch,sklearn,docker,git,linux,mysql,postgres,vscode&theme=dark&perline=7"/>
 
 </div>
 
 ---
 
+# GitHub Statistics
+
 <div align="center">
 
-### Tech Stack
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=maibamrakeshsingh&show_icons=true&theme=merko&hide_border=true"/>
 
-<img src="https://skillicons.dev/icons?i=python,r,cpp,c,tensorflow,pytorch,sklearn,docker,git,linux,mysql,postgres,vscode&theme=dark&perline=7"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maibamrakeshsingh&layout=compact&theme=merko&hide_border=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=maibamrakeshsingh&theme=merko&hide_border=true"/>
 
 </div>
 
 ---
 
-<div align="center">
-
-### 📊 GitHub Stats
+# Currently Exploring
 
 <div align="center">
 
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maibamrakeshsingh&layout=compact&theme=merko&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=39FF14"/>
+![Probability](https://img.shields.io/badge/Probability_Theory-39FF14?style=for-the-badge)
+
+![Random Matrix Theory](https://img.shields.io/badge/Random_Matrix_Theory-39FF14?style=for-the-badge)
+
+![Scientific ML](https://img.shields.io/badge/Scientific_Machine_Learning-39FF14?style=for-the-badge)
+
+![Large Language Models](https://img.shields.io/badge/Large_Language_Models-39FF14?style=for-the-badge)
+
+![High Performance Computing](https://img.shields.io/badge/High_Performance_Computing-39FF14?style=for-the-badge)
 
 </div>
 
 ---
 
-### Currently Exploring
+# Philosophy
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Stochasticity-39FF14?style=flat&logo=mathworks&logoColor=black"/>
-<img src="https://img.shields.io/badge/Quantum_Inference-39FF14?style=flat&logo=quantum&logoColor=black"/>
-<img src="https://img.shields.io/badge/Large_Language_Models-39FF14?style=flat&logo=openai&logoColor=black"/>
-<img src="https://img.shields.io/badge/Scientific_ML-39FF14?style=flat&logo=ai&logoColor=black"/>
-<img src="https://img.shields.io/badge/High_Performance_Computing-39FF14?style=flat&logo=nvidia&logoColor=black"/>
+> *"Mathematics is the language of certainty, while statistics is the language of uncertainty."*
 
 </div>
-
----
-
-<div align="center">
-
-### Philosophy
-
-> **"Mathematics is the language of certainty, while statistics is the language of uncertainty"**
-
-</div>
-
----
-
-### Daily Workflow
-
-```bash
-while true; do
-    echo "📚 Learning..." && learn()
-    echo "🔬 Researching..." && research()
-    echo "💻 Coding..." && code()
-    echo "🔄 Iterating..." && sleep 1
-done
