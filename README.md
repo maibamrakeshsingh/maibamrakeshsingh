@@ -45,15 +45,15 @@
 
 <div align="center">
 
-### GitHub Stats
+### Languages & Tools
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=maibamrakeshsingh&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117&icon_color=39FF14&title_color=39FF14"/>
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maibamrakeshsingh&layout=compact&theme=merko&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=39FF14&langs_count=8"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maibamrakeshsingh&layout=compact&theme=merko&hide_border=true&bg_color=0D1117&title_color=39FF14"/>
+<br><br>
 
-<img src="https://streak-stats.demolab.com?user=maibamrakeshsingh&theme=merko&hide_border=true&background=0D1117&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakNum=39FF14&sideNums=39FF14"/>
+<img src="https://skillicons.dev/icons?i=python,r,cpp,c,java,js,html,css&theme=dark&perline=8"/>
 
 </div>
 
