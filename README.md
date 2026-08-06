@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:006400,50:00C853,100:39FF14&section=header"/>
 
-# 🟢 Maibam Rakesh Singh
+# Maibam Rakesh Singh
 
 **`Mathematician · Statistician · Applied Mathematician`**
 
@@ -21,7 +21,7 @@
 
 <div align="center">
 
-### 🔬 Research Focus
+### Research Focus
 
 | **Theory** | **Computation** | **Application** |
 |:---:|:---:|:---:|
@@ -45,7 +45,7 @@
 
 <div align="center">
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=maibamrakeshsingh&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117&icon_color=39FF14&title_color=39FF14"/>
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maibamrakeshsingh&layout=compact&theme=merko&hide_border=true&bg_color=0D1117&title_color=39FF14"/>
@@ -60,21 +60,21 @@
 
 ---
 
-### 📚 Currently Exploring
+### Currently Exploring
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Stochastic_Geometry-39FF14?style=flat&logo=mathworks&logoColor=black"/>
-<img src="https://img.shields.io/badge/Quantum_Computing-39FF14?style=flat&logo=quantum&logoColor=black"/>
+<img src="https://img.shields.io/badge/Stochasticity-39FF14?style=flat&logo=mathworks&logoColor=black"/>
+<img src="https://img.shields.io/badge/Quantum_Inference-39FF14?style=flat&logo=quantum&logoColor=black"/>
 <img src="https://img.shields.io/badge/Large_Language_Models-39FF14?style=flat&logo=openai&logoColor=black"/>
-<img src="https://img.shields.io/badge/Scientific_AI-39FF14?style=flat&logo=ai&logoColor=black"/>
+<img src="https://img.shields.io/badge/Scientific_ML-39FF14?style=flat&logo=ai&logoColor=black"/>
 <img src="https://img.shields.io/badge/High_Performance_Computing-39FF14?style=flat&logo=nvidia&logoColor=black"/>
 
 </div>
 
 ---
 
-### ⚡ Quick Profile
+### Quick Profile
 
 ```python
 class Me:
@@ -83,7 +83,12 @@ class Me:
     research = ["Probability", "Statistical Inference", "Scientific ML", 
                 "Random Matrix Theory", "Financial Mathematics"]
     skills = ["Python", "R", "C++", "PyTorch", "TensorFlow", "Docker"]
-    learning = ["Quantum Computing", "Stochastic Geometry", "LLMs"]
+    learning = ["Quantum Inference", "Stochasticity", "LLMs"]
     
     def daily(self):
         return "Learn → Research → Code → Repeat 🔄"
+<div align="center">
+
+> **"Mathematics is the language of nature, while statistics is the language of uncertainty."**
+
+</div>
