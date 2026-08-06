@@ -78,17 +78,45 @@
 
 ```python
 class Me:
-    name = "Maibam Rakesh Singh"
-    roles = ["Mathematician", "Statistician", "Applied Mathematician"]
-    research = ["Probability", "Statistical Inference", "Scientific ML", 
-                "Random Matrix Theory", "Financial Mathematics"]
-    skills = ["Python", "R", "C++", "PyTorch", "TensorFlow", "Docker"]
-    learning = ["Quantum Inference", "Stochasticity", "LLMs"]
+    def __init__(self):
+        self.name = "Maibam Rakesh Singh"
+        self.roles = ["Mathematician", "Statistician", "Applied Mathematician"]
+        self.research = [
+            "Probability Theory", 
+            "Statistical Inference", 
+            "Scientific Machine Learning", 
+            "Random Matrix Theory", 
+            "Financial Mathematics",
+            "Complex Systems"
+        ]
+        self.skills = {
+            "Languages": ["Python", "R", "C++", "SQL", "LaTeX"],
+            "ML/AI": ["PyTorch", "TensorFlow", "Scikit-learn"],
+            "Tools": ["Docker", "Git", "Linux", "VSCode"]
+        }
+        self.learning = [
+            "Quantum Computing",
+            "Stochastic Geometry", 
+            "Large Language Models",
+            "High-Performance Computing"
+        ]
+        self.motto = "Mathematics is the language of nature, while statistics is the language of uncertainty."
     
-    def daily(self):
-        return "Learn → Research → Code → Repeat 🔄"
-<div align="center">
+    def daily_routine(self):
+        return "📚 Learn → 🔬 Research → 💻 Code → 🔄 Repeat"
+    
+    def introduce(self):
+        return f"Hi, I'm {self.name}. I work as a {', '.join(self.roles)}."
+    
+    def current_focus(self):
+        return f"Currently exploring: {', '.join(self.learning)}"
 
-> **"Mathematics is the language of nature, while statistics is the language of uncertainty."**
+# Create instance
+me = Me()
 
-</div>
+# Display information
+print(me.introduce())
+print(f"Research Areas: {', '.join(me.research)}")
+print(f"Skills: {', '.join(me.skills['Languages'] + me.skills['ML/AI'] + me.skills['Tools'])}")
+print(me.daily_routine())
+print(f"\n💡 {me.motto}")
