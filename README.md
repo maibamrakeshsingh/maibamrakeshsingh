@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:006400,50:00C853,100:39FF14&section=header"/>
 
-# 🟢 Maibam Rakesh Singh
+# Maibam Rakesh Singh
 
 **`Mathematician · Statistician · Applied Mathematician`**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=Probability+Theory;Statistical+Inference;Scientific+Machine+Learning;Random+Matrix+Theory;Financial+Mathematics;Complex+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=Probability+Theory;Statistical+Inference;Scientific+Machine+Learning;Random+Matrix+Theory;Stochasticity;Financial+Mathematics;Complex+Systems)](https://git.io/typing-svg)
 
 <br>
 
@@ -21,7 +21,7 @@
 
 <div align="center">
 
-### 🔬 Research Focus
+### Research Focus
 
 | **Theory** | **Computation** | **Application** |
 |:---:|:---:|:---:|
@@ -35,7 +35,7 @@
 
 <div align="center">
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <img src="https://skillicons.dev/icons?i=python,r,cpp,c,tensorflow,pytorch,sklearn,docker,git,linux,mysql,postgres,vscode&theme=dark&perline=7"/>
 
@@ -45,7 +45,7 @@
 
 <div align="center">
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=maibamrakeshsingh&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117&icon_color=39FF14&title_color=39FF14"/>
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maibamrakeshsingh&layout=compact&theme=merko&hide_border=true&bg_color=0D1117&title_color=39FF14"/>
@@ -60,7 +60,7 @@
 
 ---
 
-### 📚 Currently Exploring
+### Currently Exploring
 
 <div align="center">
 
@@ -76,7 +76,7 @@
 
 <div align="center">
 
-### 💡 Philosophy
+### Philosophy
 
 > **"Mathematics is the language of nature, while statistics is the language of uncertainty."**
 
@@ -84,7 +84,7 @@
 
 ---
 
-### 🔄 Daily Workflow
+### Daily Workflow
 
 ```bash
 while true; do
