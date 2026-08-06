@@ -39,23 +39,13 @@
 
 # Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,r,c,cpp,tensorflow,pytorch,sklearn,docker,git,linux,mysql,postgres,vscode&theme=dark&perline=7"/>
+<img src="https://skillicons.dev/icons?i=python,r,c,tensorflow,pytorch,sklearn,docker,git,mysql,postgres,vscode&theme=dark&perline=7"/>
 
 </div>
 
 ---
 
 <div align="center">
-
-# 📊 GitHub Statistics
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=maibamrakeshsingh&show_icons=true&theme=merko&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maibamrakeshsingh&layout=compact&theme=merko&hide_border=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=maibamrakeshsingh&theme=merko&hide_border=true"/>
-
-</div>
 
 ---
 
