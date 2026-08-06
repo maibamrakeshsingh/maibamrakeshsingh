@@ -1,145 +1,55 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Maibam%20Rakesh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&color=0:006400,50:00C853,100:39FF14"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Maibam%20Rakesh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&color=gradient&customColorList=0,2,4,6,8,10,12,14,16,18,20,22,24,26,28,30&desc=Mathematician%20|%20Statistician%20|%20Applied%20Mathematician&descSize=20&descAlignY=55"/>
 
-# 🟢 Mathematician • Statistician • Applied Mathematician
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=1000&lines=Mathematics;Mathematical+Statistics;Scientific+Machine+Learning;Mathematical+Physics;Complex+Systems;Stochastic+Modelling;Financial+Mathematics;Bayesian+Inference;Random+Matrix+Theory)](https://git.io/typing-svg)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=Mathematics;Mathematical+Statistics;Scientific+Machine+Learning;Mathematical+Physics;Complex+Systems;Stochastic+Modelling;Financial+Mathematics"/>
-
-![](https://komarev.com/ghpvc/?username=maibamrakeshsingh&color=brightgreen&style=for-the-badge)
-
-</div>
-
----
-
-# 👨‍💻 About Me
-
-```yaml
-Name: Maibam Rakesh Singh
-
-Roles:
-  - Mathematician
-  - Statistician
-  - Applied Mathematician
-
-Research Interests:
-  - Probability Theory
-  - Statistical Inference
-  - Mathematical Statistics
-  - Stochastic Processes
-  - Scientific Machine Learning
-  - Random Matrix Theory
-  - Mathematical Physics
-  - Financial Mathematics
-  - Optimization
-  - Complex Systems
-
-Currently Learning:
-  - Stochastic Geometry
-  - Deep Learning
-  - Large Language Models
-  - Numerical Optimization
-  - Computational Mathematics
-```
-
----
-
-# 🚀 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,r,cpp,c,mysql,postgres,docker,linux,git,tensorflow,pytorch,sklearn,vscode&theme=dark"/>
+![Profile Views](https://komarev.com/ghpvc/?username=maibamrakeshsingh&label=Profile%20Views&color=00FFAA&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/maibamrakeshsingh?label=Follow&style=for-the-badge&color=00FFAA)](https://github.com/maibamrakeshsingh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00FFAA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maibamrakeshsingh/)
+[![Gmail](https://img.shields.io/badge/Gmail-Email-00FFAA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maibamrakeshsingh31@gmail.com)
 
 </div>
 
 ---
 
-# 🧠 Research Interests
+## 🧬 Digital Identity
 
-- Mathematical Statistics
-- Statistical Inference
-- Scientific Machine Learning
-- Random Matrix Theory
-- Bayesian Statistics
-- Stochastic Differential Equations
-- Financial Mathematics
-- Optimization
-- Dynamical Systems
-- Complex Networks
-- Statistical Physics
-- Mathematical Modelling
+```python
+class Mathematician:
+    def __init__(self):
+        self.name = "Maibam Rakesh Singh"
+        self.roles = ["Mathematician", "Statistician", "Applied Mathematician"]
+        self.research = [
+            "Probability Theory",
+            "Statistical Inference",
+            "Mathematical Statistics",
+            "Stochastic Processes",
+            "Scientific Machine Learning",
+            "Random Matrix Theory",
+            "Mathematical Physics",
+            "Financial Mathematics",
+            "Optimization",
+            "Complex Systems"
+        ]
+        self.tools = {
+            "languages": ["Python", "R", "C", "C++", "SQL", "LaTeX"],
+            "ml_frameworks": ["TensorFlow", "PyTorch", "Scikit-learn"],
+            "infrastructure": ["Docker", "Linux", "Git", "Kubernetes"],
+            "databases": ["MySQL", "PostgreSQL", "MongoDB"],
+            "visualization": ["Matplotlib", "Seaborn", "Plotly", "ggplot2"]
+        }
+        self.learning = [
+            "Stochastic Geometry",
+            "Deep Learning",
+            "Large Language Models",
+            "Numerical Optimization",
+            "Computational Mathematics",
+            "Quantum Computing"
+        ]
+        
+    def current_focus(self):
+        return "Pushing boundaries of mathematical modelling with AI integration"
 
----
-
-# 🌱 Currently Learning
-
-- Large Language Models
-- Scientific AI
-- Stochastic Geometry
-- High Performance Computing
-- Distributed Computing
-- Computational Mathematics
-- Numerical Linear Algebra
-
----
-
-# 📚 Languages
-
-- Python
-- R
-- C
-- C++
-- SQL
-- LaTeX
-
----
-
-# 📫 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/maibamrakeshsingh">
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
-</a>
-
-<a href="https://www.linkedin.com/in/maibamrakeshsingh/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
-</a>
-
-<a href="mailto:maibamrakeshsingh31@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
-</a>
-
-</div>
-
----
-
-# 💡 Philosophy
-
-<div align="center">
-
-> **"Mathematics is the language of nature, while statistics is the language of uncertainty."**
-
-</div>
-
----
-
-# ⚡ Fun Fact
-
-```text
-while(alive)
-{
-    Learn Mathematics();
-    Build Models();
-    Solve Problems();
-    Repeat();
-}
-```
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:006400,50:00C853,100:39FF14"/>
-
-</div>
+me = Mathematician()
+print(me.current_focus())
