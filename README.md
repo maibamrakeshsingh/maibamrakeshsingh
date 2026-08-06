@@ -1,115 +1,187 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&text=Maibam%20Rakesh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&color=0:1E3A8A,50:2563EB,100:38BDF8"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Maibam%20Rakesh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&color=0:006400,50:00C853,100:39FF14"/>
 
-# Mathematician • Statistician and Applied Mathematician 
+# 🟢 Mathematician • Statistician • Applied Mathematician
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Mathematics;Scientific+Machine+Learning;Mathematical+Physics;Big+Data+Analytics;Mathematical+Statistics"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=Mathematics;Mathematical+Statistics;Scientific+Machine+Learning;Mathematical+Physics;Complex+Systems;Stochastic+Modelling;Financial+Mathematics"/>
+
+![](https://komarev.com/ghpvc/?username=maibamrakeshsingh&color=brightgreen&style=for-the-badge)
 
 </div>
 
 ---
 
-# About Me
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="60%" valign="top">
+# 👨‍💻 About Me
 
 ```yaml
-Roles:
-  - ML Engineer
-  - Statistical Mathematician
-  - Mathematical Physicist
+Name: Maibam Rakesh Singh
 
-Domains:
+Roles:
+  - Mathematician
+  - Statistician
+  - Applied Mathematician
+
+Research Interests:
+  - Probability Theory
+  - Statistical Inference
+  - Mathematical Statistics
+  - Stochastic Processes
+  - Scientific Machine Learning
+  - Random Matrix Theory
+  - Mathematical Physics
+  - Financial Mathematics
+  - Optimization
   - Complex Systems
-  - Quantum Inference
-  - Stochastics Modelling
-  - Statistical Physics
-  - Big Data Processing
 
 Currently Learning:
-  - Stochastics Geometry
-  - Distributed Computing
-  - Data Modelling of Complex Systems
-  - Deep Learning and Large Language Model
+  - Stochastic Geometry
+  - Deep Learning
+  - Large Language Models
+  - Numerical Optimization
+  - Computational Mathematics
 ```
 
-</td>
+---
 
-<td width="40%" align="center">
+# 🚀 Tech Stack
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+<div align="center">
 
-</td>
-
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=python,r,cpp,c,mysql,postgres,docker,linux,git,tensorflow,pytorch,sklearn,vscode&theme=dark"/>
 
 </div>
 
 ---
 
-# Tech Stack
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,r,mysql,docker,aws,tensorflow,pytorch,vscode&perline=8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=maibamrakeshsingh&show_icons=true&theme=merko&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maibamrakeshsingh&layout=compact&theme=merko&hide_border=true"/>
 
 </div>
 
 ---
 
-# GitHub Statistics
+# 🔥 GitHub Streak
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.shion.dev/api?username=maibamrakeshsingh&theme=github_dark&hide_border=true&show_icons=true"/>
-
-<img height="160em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=maibamrakeshsingh&layout=compact&theme=github_dark&hide_border=true"/>
-
-<br/><br/>
+<img src="https://streak-stats.demolab.com?user=maibamrakeshsingh&theme=merko&hide_border=true"/>
 
 </div>
 
-# Connect With Me
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=maibamrakeshsingh&theme=matrix&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maibamrakeshsingh&theme=react-dark&bg_color=000000&color=39FF14&line=00FF00&point=00FF00&hide_border=true"/>
+
+</div>
+
+---
+
+# 🧠 Research Interests
+
+- Mathematical Statistics
+- Statistical Inference
+- Scientific Machine Learning
+- Random Matrix Theory
+- Bayesian Statistics
+- Stochastic Differential Equations
+- Financial Mathematics
+- Optimization
+- Dynamical Systems
+- Complex Networks
+- Statistical Physics
+- Mathematical Modelling
+
+---
+
+# 🌱 Currently Learning
+
+- Large Language Models
+- Scientific AI
+- Stochastic Geometry
+- High Performance Computing
+- Distributed Computing
+- Computational Mathematics
+- Numerical Linear Algebra
+
+---
+
+# 📚 Languages
+
+- Python
+- R
+- C
+- C++
+- SQL
+- LaTeX
+
+---
+
+# 📫 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/maibamrakeshsingh">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
 
 <a href="https://www.linkedin.com/in/maibamrakeshsingh/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
-
-<a href="https://discord.com/channels/@me">
-<img src="https://skillicons.dev/icons?i=discord" height="50"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
 
 <a href="mailto:maibamrakeshsingh31@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
 </a>
-
-</div>
-
-# Philosophy
-
-<div align="center">
-
-> *"Mathematics is the logic of certainty, while statistics is the logic of uncertainty."*
 
 </div>
 
 ---
 
+# 💡 Philosophy
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:1E3A8A,50:2563EB,100:38BDF8"/>
+> **"Mathematics is the language of nature, while statistics is the language of uncertainty."**
+
+</div>
+
+---
+
+# ⚡ Fun Fact
+
+```text
+while(alive)
+{
+    Learn Mathematics();
+    Build Models();
+    Solve Problems();
+    Repeat();
+}
+```
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:006400,50:00C853,100:39FF14"/>
 
 </div>
