@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:006400,50:00C853,100:39FF14&section=header"/>
 
-# Maibam Rakesh Singh
+# 🟢 Maibam Rakesh Singh
 
 **`Mathematician · Statistician · Applied Mathematician`**
 
@@ -21,7 +21,7 @@
 
 <div align="center">
 
-### Research Focus
+### 🔬 Research Focus
 
 | **Theory** | **Computation** | **Application** |
 |:---:|:---:|:---:|
@@ -45,7 +45,7 @@
 
 <div align="center">
 
-### GitHub Stats
+### 📊 GitHub Stats
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=maibamrakeshsingh&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117&icon_color=39FF14&title_color=39FF14"/>
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maibamrakeshsingh&layout=compact&theme=merko&hide_border=true&bg_color=0D1117&title_color=39FF14"/>
@@ -60,7 +60,7 @@
 
 ---
 
-### Currently Exploring
+### 📚 Currently Exploring
 
 <div align="center">
 
@@ -74,49 +74,22 @@
 
 ---
 
-### Quick Profile
+<div align="center">
 
-```python
-class Me:
-    def __init__(self):
-        self.name = "Maibam Rakesh Singh"
-        self.roles = ["Mathematician", "Statistician", "Applied Mathematician"]
-        self.research = [
-            "Probability Theory", 
-            "Statistical Inference", 
-            "Scientific Machine Learning", 
-            "Random Matrix Theory", 
-            "Financial Mathematics",
-            "Complex Systems"
-        ]
-        self.skills = {
-            "Languages": ["Python", "R", "C++", "SQL", "LaTeX"],
-            "ML/AI": ["PyTorch", "TensorFlow", "Scikit-learn"],
-            "Tools": ["Docker", "Git", "Linux", "VSCode"]
-        }
-        self.learning = [
-            "Quantum Computing",
-            "Stochastic Geometry", 
-            "Large Language Models",
-            "High-Performance Computing"
-        ]
-        self.motto = "Mathematics is the language of nature, while statistics is the language of uncertainty."
-    
-    def daily_routine(self):
-        return "📚 Learn → 🔬 Research → 💻 Code → 🔄 Repeat"
-    
-    def introduce(self):
-        return f"Hi, I'm {self.name}. I work as a {', '.join(self.roles)}."
-    
-    def current_focus(self):
-        return f"Currently exploring: {', '.join(self.learning)}"
+### 💡 Philosophy
 
-# Create instance
-me = Me()
+> **"Mathematics is the language of nature, while statistics is the language of uncertainty."**
 
-# Display information
-print(me.introduce())
-print(f"Research Areas: {', '.join(me.research)}")
-print(f"Skills: {', '.join(me.skills['Languages'] + me.skills['ML/AI'] + me.skills['Tools'])}")
-print(me.daily_routine())
-print(f"\n💡 {me.motto}")
+</div>
+
+---
+
+### 🔄 Daily Workflow
+
+```bash
+while true; do
+    echo "📚 Learning..." && learn()
+    echo "🔬 Researching..." && research()
+    echo "💻 Coding..." && code()
+    echo "🔄 Iterating..." && sleep 1
+done
