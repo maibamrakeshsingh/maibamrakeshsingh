@@ -69,6 +69,6 @@
 
 <div align="center">
 
-> **"Mathematics is the language of certainty, while statistics is the language of uncertainty."**
+> **"Mathematics is the language of certainty, while statistics is the language of uncertainty"**
 
 </div>
