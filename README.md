@@ -46,6 +46,13 @@
 <div align="center">
 
 
+# GitHub Statistics 
+<div align="center"> 
+  <img height="160em" src="https://github-readme-stats.shion.dev/api?username=maibamrakeshsingh&theme=github_dark&hide_border=true&show_icons=true"/>
+  <img height="160em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=maibamrakeshsingh&layout=compact&theme=github_dark&hide_border=true"/> <br/><br/> 
+</div>
+
+
 
 # Currently Exploring
 
