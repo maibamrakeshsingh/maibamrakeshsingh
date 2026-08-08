@@ -42,14 +42,6 @@
 <img src="https://skillicons.dev/icons?i=python,r,c,tensorflow,pytorch,sklearn,docker,git,mysql,postgres,vscode&theme=dark&perline=7"/>
 
 </div>
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=maibamrakeshsingh&layout=donut&theme=chartreuse-dark&hide_border=true&langs_count=8"
-  alt="Programming language distribution"
-/>
-
-</div>
 
 <div align="center">
 
