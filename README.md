@@ -28,7 +28,7 @@
 | Probability Theory | Scientific Machine Learning | Financial Mathematics |
 | Mathematical Statistics | Numerical Optimization | Complex Systems |
 | Statistical Inference | High-Performance Computing | Statistical Physics |
-| Stochastic Processes | Scientific Computing | Data Science |
+| Stochastic Calculus | Scientific Computing | Data Science |
 | Random Matrix Theory | Parallel Computing | Quantitative Finance |
 
 </div>
