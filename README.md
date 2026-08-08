@@ -6,7 +6,7 @@
 
 ### Mathematician • Statistician • Applied Mathematician
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=850&lines=Probability+Theory;Mathematical+Statistics;Scientific+Machine+Learning;Random+Matrix+Theory;Stochastic+Calculus;Financial+Mathematics;Complex+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=850&lines=Mathematics;Probability+Theory;Mathematical+Statistics;Scientific+Machine+Learning;Random+Matrix+Theory;Stochastic+Calculus;Financial+Mathematics;Complex+Network+Inference)](https://git.io/typing-svg)
 
 <br>
 
@@ -26,7 +26,7 @@
 | Theory | Computation | Applications |
 |:------:|:-----------:|:------------:|
 | Probability Theory | Scientific Machine Learning | Financial Mathematics |
-| Mathematical Statistics | Numerical Optimization | Complex Systems |
+| Mathematical Statistics | Numerical Optimization | Complex Network |
 | Statistical Inference | High-Performance Computing | Statistical Physics |
 | Stochastic Calculus | Scientific Computing | Data Science |
 | Random Matrix Theory | Parallel Computing | Quantitative Finance |
