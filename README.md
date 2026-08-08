@@ -45,17 +45,6 @@
 
 <div align="center">
 
-## 📊 Contribution Activity
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=maibamrakeshsingh&bg_color=080e08&color=39FF14&line=00C853&point=76FF76&area=true&hide_border=true"
-  width="95%"
-  alt="GitHub Contribution Activity"
-/>
-
-</div>
 
 
 # Currently Exploring
