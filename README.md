@@ -48,6 +48,46 @@
 <div align="center">
 
 ---
+```markdown
+## 💻 Programming Languages & Statistics
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=maibamrakeshsingh&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=10"
+  alt="Programming languages used"
+/>
+
+</div>
+
+<br>
+
+### 📊 Programming Languages Used
+
+<div align="center">
+
+| Language | Usage |
+|:---:|:---:|
+| 🟨 JavaScript | 71.492% |
+| 🟦 C# | 16.333% |
+| 🐍 Python | 7.652% |
+| 💎 Ruby | 1.457% |
+| 🟪 PowerShell | 1.058% |
+| 🟩 Other | 1.141% |
+| ⚙️ ASP | 0.667% |
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=maibamrakeshsingh&layout=donut&theme=chartreuse-dark&hide_border=true&langs_count=8"
+  alt="Programming language distribution"
+/>
+
+</div>
 
 <div align="center">
 
