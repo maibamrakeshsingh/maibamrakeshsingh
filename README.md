@@ -69,8 +69,6 @@
 
 <div align="center">
 
-# Philosophy
-
 > **"Mathematics is the language of certainty, while statistics is the language of uncertainty."**
 
 </div>
