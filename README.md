@@ -45,22 +45,14 @@
 
 <div align="center">
 
-## 📈 GitHub Profile Statistics
+## 📊 Contribution Activity
 
 <div align="center">
 
-<!-- GitHub Profile Stats -->
 <img
-  height="190"
-  src="https://github-readme-stats.vercel.app/api?username=maibamrakeshsingh&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&hide_border=true&rank_icon=github"
-  alt="Maibam Rakesh Singh GitHub statistics"
-/>
-
-<!-- Most Used Programming Languages -->
-<img
-  height="190"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=maibamrakeshsingh&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true"
-  alt="Most used programming languages"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=maibamrakeshsingh&bg_color=080e08&color=39FF14&line=00C853&point=76FF76&area=true&hide_border=true"
+  width="95%"
+  alt="GitHub Contribution Activity"
 />
 
 </div>
