@@ -4,7 +4,7 @@
 
 # Maibam Rakesh Singh
 
-### Mathematician • Statistician • Applied Mathematician
+### Mathematician • Statistician • Applied Mathematician • Computational Data Scientist
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=850&lines=Mathematics;Probability+Theory;Mathematical+Statistics;Scientific+Machine+Learning;Random+Matrix+Theory;Stochastic+Calculus;Financial+Mathematics;Complex+Network+Inference)](https://git.io/typing-svg)
 
