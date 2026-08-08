@@ -45,23 +45,27 @@
 
 <div align="center">
 
-## 📊 My GitHub Profile Statistics
+## 📈 GitHub Profile Statistics
 
 <div align="center">
 
+<!-- GitHub Profile Stats -->
 <img
-  height="200"
-  src="https://github-readme-stats.vercel.app/api?username=maibamrakeshsingh&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&hide_border=true&rank_icon=github&custom_title=Maibam%20Rakesh%20Singh%27s%20GitHub%20Stats"
-  alt="GitHub Stats"
+  height="190"
+  src="https://github-readme-stats.vercel.app/api?username=maibamrakeshsingh&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&hide_border=true&rank_icon=github"
+  alt="Maibam Rakesh Singh GitHub statistics"
 />
 
+<!-- Most Used Programming Languages -->
 <img
-  height="200"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=maibamrakeshsingh&layout=donut&langs_count=8&theme=chartreuse-dark&hide_border=true&custom_title=Most%20Used%20Languages"
-  alt="Most Used Languages"
+  height="190"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=maibamrakeshsingh&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true"
+  alt="Most used programming languages"
 />
 
 </div>
+
+
 # Currently Exploring
 
 ![Probability](https://img.shields.io/badge/Probability_Theory-39FF14?style=for-the-badge)
