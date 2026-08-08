@@ -47,8 +47,6 @@
 
 <div align="center">
 
----
-```markdown
 ## 💻 Programming Languages & Statistics
 
 <div align="center">
