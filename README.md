@@ -45,6 +45,40 @@
 
 <div align="center">
 
+---
+
+## 📊 My GitHub Profile Statistics
+
+<div align="center">
+
+<img
+  height="200"
+  src="https://github-readme-stats.vercel.app/api?username=maibamrakeshsingh&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&hide_border=true&rank_icon=github&custom_title=Maibam%20Rakesh%20Singh%27s%20GitHub%20Stats"
+  alt="Maibam Rakesh Singh GitHub statistics"
+/>
+
+<img
+  height="200"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=maibamrakeshsingh&layout=donut&langs_count=8&theme=chartreuse-dark&hide_border=true&custom_title=Most%20Used%20Languages"
+  alt="Most used programming languages"
+/>
+
+</div>
+
+
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=maibamrakeshsingh&bg_color=080e08&color=39FF14&line=00C853&point=76FF76&area=true&hide_border=true"
+  width="95%"
+  alt="GitHub contribution activity"
+/>
+
+</div>
+
 # Currently Exploring
 
 ![Probability](https://img.shields.io/badge/Probability_Theory-39FF14?style=for-the-badge)
